@@ -23,7 +23,7 @@ With hands-on experience in web development, technical support, and programming 
 <p align="left">
 ✨ Creating bugs since 2021 <br>
 📚 I'm currently learning Azure, Docker, and backend testing <br>
-🗣️ I speak **Spanish**, **English**, and **French** fluently <br>
+🗣️ I speak <strong> Spanish <strong/>, <strong> English <strong/>, and <strong>French<strong/> fluently <br>
 🎯 Goals: Become a full-stack developer, contribute to open-source projects, and build apps that make a real social impact <br>
 🎲 Fun fact: I debug with snacks on hand and I name my projects after my favorite songs 🎶
 </p>
