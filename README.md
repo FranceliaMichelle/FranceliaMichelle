@@ -23,11 +23,11 @@ With hands-on experience in web development, technical support, and programming 
 <p align="left">
 ✨ Creating bugs since 2021 <br>
 📚 I'm currently learning Azure, Docker, and backend testing <br>
+🗣️ I speak **Spanish**, **English**, and **French** fluently <br>
 🎯 Goals: Become a full-stack developer, contribute to open-source projects, and build apps that make a real social impact <br>
 🎲 Fun fact: I debug with snacks on hand and I name my projects after my favorite songs 🎶
 </p>
 
-###
 
 <h2 align="left">📬 Contact Me</h2>
 
@@ -98,14 +98,6 @@ With hands-on experience in web development, technical support, and programming 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranceliaMichelle/FranceliaMichelle/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranceliaMichelle/FranceliaMichelle/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FranceliaMichelle/FranceliaMichelle/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
