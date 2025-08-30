@@ -1,8 +1,5 @@
-<h1 align="left">🎓 Systems Engineering Student | 💻 Aspiring Full-Stack Developer | 🔧 Tech Support Specialist & Technology Enthusiast</h1>
+<h1 align="left">🎓 Systems Engineering Student | 💻 Aspiring Full-Stack Developer | 🔧 Junior FullStack Developer</h1>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/FranceliaMichelle/FranceliaMichelle)
-![GitHub last commit](https://img.shields.io/github/last-commit/FranceliaMichelle/FranceliaMichelle)
-![License](https://img.shields.io/github/license/FranceliaMichelle/FranceliaMichelle)
 ###
 
 <p align="left">👋 Hello World! I'm Francelia López<br>
