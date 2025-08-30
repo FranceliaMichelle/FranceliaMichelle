@@ -1,4 +1,4 @@
-<h1 align="left">🎓 Systems Engineering Student | 💻 Aspiring Full-Stack Developer | 🔧 Junior FullStack Developer</h1>
+<h1 align="left">🎓 Systems Engineering Student | 💻 Junior FullStack Developer </h1>
 
 ###
 
